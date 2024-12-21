@@ -7,6 +7,7 @@
 /Users/kirankothapalli/eclipse-workspace/Opencart_v1/src/test/java/testCases/TC_001_AccountRegistrationTest.java
 /Users/kirankothapalli/eclipse-workspace/Opencart_v1/src/test/java/testCases/TC_002_LoginTest.java
 /Users/kirankothapalli/eclipse-workspace/Opencart_v1/src/test/java/testCases/TC_003_LoginDDT.java
+/Users/kirankothapalli/eclipse-workspace/Opencart_v1/src/test/java/testCases/TC_004_Search.java
 /Users/kirankothapalli/eclipse-workspace/Opencart_v1/src/test/java/utilities/DataProviders.java
 /Users/kirankothapalli/eclipse-workspace/Opencart_v1/src/test/java/utilities/ExcelUtility.java
 /Users/kirankothapalli/eclipse-workspace/Opencart_v1/src/test/java/utilities/ExtentReportManager.java

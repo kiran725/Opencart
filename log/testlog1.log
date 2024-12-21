@@ -1,0 +1,11 @@
+2024-12-21 10:58:31,730 [main] INFO opencart - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-21 10:58:31,770 [main] INFO opencart - Clicked on MyAccount Link.. 
+2024-12-21 10:58:32,012 [main] INFO opencart - Clicked on Register Link.. 
+2024-12-21 10:58:32,014 [main] INFO opencart - Providing customer details...
+2024-12-21 10:58:35,906 [main] INFO opencart - Validating expected message..
+2024-12-21 10:58:35,918 [main] INFO opencart - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-21 10:58:37,781 [main] INFO opencart - ***** Starting TC002_LoginTest  ****
+2024-12-21 10:58:37,822 [main] INFO opencart - Clicked on MyAccount Link.. 
+2024-12-21 10:58:37,976 [main] INFO opencart - Clicked on Login Link.. 
+2024-12-21 10:58:38,515 [main] INFO opencart - Login successful.. 
+2024-12-21 10:58:38,530 [main] INFO opencart - ***Finished TC002_LoginTest***
